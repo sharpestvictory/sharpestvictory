@@ -6,5 +6,5 @@
 
 
 
-                                  soft sharing 
+                                      soft sharing 
 ![GitHub Views](https:/komarevv.com/ghpvc/?username=sharpestvictory&amp;color=ffd62c&amp;style=flat&amp;label=pawns)
