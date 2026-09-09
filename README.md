@@ -1,6 +1,8 @@
+
+                  look at my stupid dork f/os i hate them haha 
 <div align="center">
 
-![hi](<img width="734" height="437" alt="17889958612955645681818008407430" src="https://github.com/user-attachments/assets/b09295e3-dd2c-4328-8914-ef2f60a70d16" />)
+![hi](https://i.pinimg.com/736x/26/9b/39/269b3936fbd386e424aa5b99245699ba.jpg)
 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=sharpestvictory&amp;color=000000&amp;style=flat&amp;label=pawns)
