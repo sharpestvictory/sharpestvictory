@@ -4,7 +4,7 @@
 
 ![hi](https://i.pinimg.com/736x/26/9b/39/269b3936fbd386e424aa5b99245699ba.jpg)
 
-![GitHub Views](https://komarev.com/ghpvc/?username=sharpestvictory&amp;color=ffd62c&amp;style=flat&amp;label=pawns)
+![GitHub Views](https://komarev.com/ghpvc/?username=sharpestvictory&amp;color=00000&amp;style=flat&amp;label=pawns)
 
 
      soft sharing yume
