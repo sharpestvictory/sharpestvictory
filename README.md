@@ -1,9 +1,8 @@
 
 <div align="center">
 
-![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1563918908195602543/f2f6f0fe8b995afdda86704409a485ba.jpg?ex=6adf607b&is=6ade0efb&hm=b59e09c9c1f3edcf61839dc0e7490dd997044860b39a7acc5764ddb5436bac8f&)
+![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1565171877670817943/b6910857093a64bdfef2c0eedc3bc292.jpg?ex=6ae3ef67&is=6ae29de7&hm=61eee97fca305bfad469c62d94bdc435eb0665911254fb3bdc7a92ef03ebefd8&)
 
-
-![GitHub Views](https://komarev.com/ghpvc/?username=sharpestvictory&amp;color=ffb8de&amp;style=flat&amp;label=pawns)
+![GitHub Views](https://komarev.com/ghpvc/?username=sharpestvictory&amp;color=0009d9th&amp;style=flat&amp;label=pawns)
 
                                             
