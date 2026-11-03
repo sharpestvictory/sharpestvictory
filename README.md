@@ -7,4 +7,4 @@
 
  <div align="center">
 
-![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567174660922286242/IMG_20261101_192410.jpg?ex=6aeb38a3&is=6ae9e723&hm=06e9ea49bdb5a59287f82dfb742b4ee629418f670d587822996ad12887302e34&) thank u so mcuh
+![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567174660922286242/IMG_20261101_192410.jpg?ex=6aeb38a3&is=6ae9e723&hm=06e9ea49bdb5a59287f82dfb742b4ee629418f670d587822996ad12887302e34&) this is neat thanks
