@@ -15,4 +15,4 @@
 
 
 
- @pt-hall-of-media @pt-everypony thanks
+@pt-everypony  @pt-hall-of-media thanks
