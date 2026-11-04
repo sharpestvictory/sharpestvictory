@@ -15,7 +15,7 @@
 
 <div align="center">
 
-![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567455307498782830/56d831f8651c05407526f2eacfd8e7a0.jpg?ex=6aec3e03&is=6aeaec83&hm=e27de0c842dafe456f7a5bf8d8e0513b3d88bd6ade91e751507e3d970a635a6f&)
+![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567455307498782830/56d831f8651c05407526f2eacfd8e7a0.jpg?ex=6aec3e03&is=6aeaec83&hm=e27de0c842dafe456f7a5bf8d8e0513b3d88bd6ade91e751507e3d970a635a6f&) me & my crew
 
 <div align="center">
 
