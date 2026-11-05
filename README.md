@@ -46,3 +46,4 @@ me & my crew
 <div align="center">
 
 ![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567852505675862156/Screenshot_20261105-074344.png?ex=6aedafee&is=6aec5e6e&hm=374abddbc66aea0868dca8367b01d644d7afd78a5950d12f65752678165a93db&)
+no
