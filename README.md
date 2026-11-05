@@ -34,3 +34,15 @@ me & my crew
 <div align="center">
 
 ![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567853131948367942/5630e5ed-a14c-4974-a2ca-abab6bbdc065.png?ex=6aedb083&is=6aec5f03&hm=018a3b49803b17221fb8a6726456eed74bbb7368af58cf632784b4c11a9967fc&)
+
+<div align="center">
+
+![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567852358296145961/fb1a288a-1de9-40e7-ab9d-1671aaaa1d5c.png?ex=6aedafcb&is=6aec5e4b&hm=c51a0b7b12c7f11cb790e291212fc16fedfe1a4376b2d8a84cb7349c8debd5a2&)
+
+<div align="center">
+
+![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567851448438497280/58dd017c-6104-42c4-b6ae-c7935bc5c9ef.jpg?ex=6aedaef2&is=6aec5d72&hm=e42067dcf52c0781e272181b54b336b92ab299aff7eaa316047e4897f67b4db1&)
+
+<div align="center">
+
+![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567852505675862156/Screenshot_20261105-074344.png?ex=6aedafee&is=6aec5e6e&hm=374abddbc66aea0868dca8367b01d644d7afd78a5950d12f65752678165a93db&)
