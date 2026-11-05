@@ -33,4 +33,4 @@ me & my crew
 
 <div align="center">
 
-![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567851313696473098/Screenshot_20261104-125832.png?ex=6aedaed2&is=6aec5d52&hm=3121ff07482452256aeea8ab82ed644216daf5430e11417353f620a21b27477f&)
+![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567853131948367942/5630e5ed-a14c-4974-a2ca-abab6bbdc065.png?ex=6aedb083&is=6aec5f03&hm=018a3b49803b17221fb8a6726456eed74bbb7368af58cf632784b4c11a9967fc&)
