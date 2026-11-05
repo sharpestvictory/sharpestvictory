@@ -21,7 +21,7 @@ me & my crew
 
 <div align="center">
 
-![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567455318357704744/ce9f813ba7b1a5f59aa6812db9318229.jpg?ex=6aec3e05&is=6aeaec85&hm=33602000c2c1ba4c1885f5371b81c7a47ec2e6df0c280910b394b9296f879b2b&)
+![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567851313696473098/Screenshot_20261104-125832.png?ex=6aedaed2&is=6aec5d52&hm=3121ff07482452256aeea8ab82ed644216daf5430e11417353f620a21b27477f&)
 
 <div align="center">
 
@@ -33,4 +33,4 @@ me & my crew
 
 <div align="center">
 
-![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567457173380923514/6411738b-951e-4c42-be9f-22ebb23e0300.jpg?ex=6aec3fc0&is=6aeaee40&hm=5ba26570e06605175fccedf11540c57786acc6c948136471f09b8ade61dd2c28&)
+![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567851313696473098/Screenshot_20261104-125832.png?ex=6aedaed2&is=6aec5d52&hm=3121ff07482452256aeea8ab82ed644216daf5430e11417353f620a21b27477f&)
