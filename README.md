@@ -1,7 +1,4 @@
 
-<div align="center">
-
-![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1566044368664657990/IMG_20261031_080029.jpg?ex=6ae71bf9&is=6ae5ca79&hm=3e00fb9fd0f014d3633f1eefd8532c8ed078aa76371e4b28c6d20997fa2a30f2&)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=sharpestvictory&amp;color=2a3154&amp;style=flat&amp;label=pawns)
 
@@ -19,9 +16,6 @@
 
 me & my crew
 
-<div align="center">
-
-![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567851313696473098/Screenshot_20261104-125832.png?ex=6aedaed2&is=6aec5d52&hm=3121ff07482452256aeea8ab82ed644216daf5430e11417353f620a21b27477f&)
 
 <div align="center">
 
@@ -39,11 +33,4 @@ me & my crew
 
 ![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567852358296145961/fb1a288a-1de9-40e7-ab9d-1671aaaa1d5c.png?ex=6aedafcb&is=6aec5e4b&hm=c51a0b7b12c7f11cb790e291212fc16fedfe1a4376b2d8a84cb7349c8debd5a2&)
 
-<div align="center">
 
-![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567851448438497280/58dd017c-6104-42c4-b6ae-c7935bc5c9ef.jpg?ex=6aedaef2&is=6aec5d72&hm=e42067dcf52c0781e272181b54b336b92ab299aff7eaa316047e4897f67b4db1&)
-
-<div align="center">
-
-![hi](https://cdn.discordapp.com/attachments/1379581426747576440/1567852505675862156/Screenshot_20261105-074344.png?ex=6aedafee&is=6aec5e6e&hm=374abddbc66aea0868dca8367b01d644d7afd78a5950d12f65752678165a93db&)
-no
