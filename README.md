@@ -6,7 +6,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=sharpestvictory&amp;color=2a3154&amp;style=flat&amp;label=pawns)
 
 
-@pt-everypony  @pt-hall-of-media thanks 
+@pt-everypony  @pt-hall-of-media  @pony-town-nominations thanks 
 
 
 <div align="center">
